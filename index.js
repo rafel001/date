@@ -12,5 +12,5 @@ app.get('/api/date', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Date API running at http://localhost:${port}/api/date`);
+  console.log(`Date APIs runninhg at http://localhost:${port}/api/date`);
 });
